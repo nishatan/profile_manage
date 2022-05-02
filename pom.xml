@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.atguigu</groupId>
-    <artifactId>user-profile-manager0111</artifactId>
+    <artifactId>user-profile-manager</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>user-profile-manager</name>
     <description>user-profile-manager</description>
